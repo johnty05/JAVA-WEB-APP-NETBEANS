@@ -1,6 +1,10 @@
 # JAVA-WEB-APP-NETBEANS
 Deploying first JAVA Web Application using NetBeans IDE
 
+# FINAL OUTPUT
+
+![outputvideo](https://user-images.githubusercontent.com/25481890/52430884-19ed1000-2b2d-11e9-8725-c1e008d89d9a.gif)
+
 # Step by Step Tutorial
 
 1.Download and Install Netbeans IDE and JDK along with it.
